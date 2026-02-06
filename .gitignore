@@ -1,0 +1,14 @@
+# Modèle IA trop volumineux pour GitHub (4+ GB)
+*.gguf
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/

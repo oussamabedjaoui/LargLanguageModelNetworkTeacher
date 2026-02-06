@@ -84,7 +84,7 @@ cd LargLanguageModelNetworkTeacher/Mon_Bot_Prof
 ⚠️ **Le fichier `prof.gguf` (4.17 GB) n'est pas inclus dans le repository.**
 
 Téléchargez-le depuis :
-> 🔗 **[Lien de téléchargement à ajouter]**
+> 🔗 **[Hugging Face - prof-network-LLM](https://huggingface.co/Oussamabedjaoui/prof-network-LLM/resolve/main/prof.gguf)**
 
 Placez le fichier `prof.gguf` dans le dossier `Mon_Bot_Prof/`.
 
